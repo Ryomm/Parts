@@ -1,0 +1,6 @@
+framework module Pods_sample_acceleration {
+  umbrella header "Pods-sample_acceleration-umbrella.h"
+
+  export *
+  module * { export * }
+}
